@@ -1,0 +1,18 @@
+
+
+
+
+
+.main-div{
+    width: 30%;
+    margin: 150px auto;
+    height: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+
+
+.first .input{
+    width: 100%;
+    padding: 10px;
+}
